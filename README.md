@@ -2,7 +2,7 @@
 
 <p>🔭 I’m currently working on machine learning projects and contributing to the open-source community <br> 
 ⚡ Research Interests: deep learning algorthims, AI, data mining, data visualization <br> 
-💬 Ask me about anything! <br> 
+💬 Let's grab coffee and chat! <br> 
 😄 Pronouns: she/her <br> 
 ✨ Fun fact: I love cooking 👩‍🍳 creating art 🎨 gardening 🌱 and blogging 🖊️ <br> <p>
 
