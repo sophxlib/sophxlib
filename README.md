@@ -1,4 +1,10 @@
-### Hi there 👋
+![Alt Text](Banner.gif)
+
+<p>🔭 I’m currently working on machine learning projects and contributing to the open-source community <br> 
+⚡ Research Interests: deep learning algorthims, AI, data mining, data visualization <br> 
+💬 Ask me about anything! <br> 
+😄 Pronouns: she/her <br> 
+✨ Fun fact: I love cooking 👩‍🍳 creating art 🎨 gardening 🌱 and blogging 🖊️ <br> <p>
 
 <!--
 **sophiaahh/sophiaahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
