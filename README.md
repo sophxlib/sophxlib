@@ -1,8 +1,7 @@
 
-<p> 💬 Let's grab coffee and chat! <br> 
+<p>  
 🔭 I’m currently working on machine learning projects and contributing to the open-source community <br> 
-⚡ Research Interests: deep learning algorthims, AI, data mining, predictive modeling, data visualization <br> 
-✨ Fun fact: I love cooking 👩‍🍳 creating art 🎨 gardening 🌱 and blogging 🖊️ <br> <p>
+💬 Research Interests: deep learning algorthims, AI, data mining, predictive modeling, data visualization <br> <p>
 
 <!--
 **sophiaahh/sophiaahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
