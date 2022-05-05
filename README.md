@@ -1,7 +1,4 @@
 
-<p>  
-🔭 I’m currently working on machine learning projects and contributing to the open-source community <br> 
-💬 Research Interests: deep learning algorthims, AI, data mining, predictive modeling, data visualization <br> <p>
 
 <!--
 **sophiaahh/sophiaahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
