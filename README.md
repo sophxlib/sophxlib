@@ -16,5 +16,5 @@ Feel free to explore my repositories, and don't hesitate to connect! I'm always 
 
 Happy coding! <br>
 
-sophxlib
+soph×lib
 <p>
