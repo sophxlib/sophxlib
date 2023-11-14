@@ -1,9 +1,20 @@
-
-
 <p>  
-Hi there! I'm a student at University of Maryland, College Park with a passion for statistics, machine learning, data visualization and data-storytelling.<br> 
+Hello, World! 👋
 
+I'm a student at University of Maryland, College Park with a passion for statistics, machine learning, data visualization and data-storytelling.
 
-🔭 I’m currently working on side projects and contributing to the open-source community <br> 
-💬 Research Interests: deep learning algorthims, AI, machine learning, predictive modeling, data visualization <br>
+What You'll Find Here:
+💻 A collection of projects reflecting my dedication to clean and efficient code.
+🚀 Contributions to open-source projects that align with my values and interests.
+📚 Documentation and write-ups sharing insights and lessons learned along the way.
+
+Tech Stack:
+🌐 Python, Java, C++, R, SQL, JavaScript, HTML, CSS
+📊 SAS, Matlab, SPSS, Minitab, Stata, Excel
+
+Feel free to explore my repositories, and don't hesitate to connect! I'm always open to collaboration and learning.
+
+Happy coding!
+
+sophxlib
 <p>
