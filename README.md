@@ -9,8 +9,9 @@ What You'll Find Here: <br>
 📚 Documentation and write-ups sharing insights and lessons learned along the way. <br>
 
 Tech Stack: <br>
-🌐 Python, Java, C++, R, SQL, JavaScript, HTML, CSS <br>
-📊 SAS, Matlab, SPSS, Minitab, Stata, Excel <br>
+🌐 Languages: Python, Java, C#, R, SQL, Matlab, JavaScript, HTML, CSS <br>
+☁️ Cloud: AWS, Apache Spark <br>
+📊 Stat Software: SAS, SPSS, Minitab, Stata, Excel <br>
 
 Feel free to explore my repositories, and don't hesitate to connect! I'm always open to collaboration and learning. <br>
 
